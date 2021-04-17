@@ -1,4 +1,4 @@
-![The Utopia](https://github.com/thelou1s/thelou1s.github.io/raw/main/home-bg.jpg)
+![The Utopia](https://raw.githubusercontent.com/thelou1s/thelou1s.github.io/master/home-bg.jpg)
 
 # The Utopia
 
