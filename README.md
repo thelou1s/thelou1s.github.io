@@ -1,9 +1,5 @@
 ![The Utopia][image_base64]
 
-# The Utopia
-
-&nbsp;
-
 ## 秦岭 关山
 
 关山草木新
