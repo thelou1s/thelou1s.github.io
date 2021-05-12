@@ -17,7 +17,7 @@
 
 &nbsp;
 
-[没水可能还可以运行十几分钟，没机油的话一分钟都不行，所有的运动副拉伤直至高温抱死](https://www.zhihu.com/question/306987085)
+[链接：没水可能还可以运行十几分钟，没机油的话一分钟都不行，所有的运动副拉伤直至高温抱死](https://www.zhihu.com/question/306987085)
 
 &nbsp;
 
@@ -30,7 +30,7 @@
 
 &nbsp;
 
-[你相信世界上有600多种编程语言么？](https://baijiahao.baidu.com/s?id=1633127608275438538&wfr=spider&for=pc)
+[链接：你相信世界上有600多种编程语言么？](https://baijiahao.baidu.com/s?id=1633127608275438538&wfr=spider&for=pc)
 
 &nbsp;
 
@@ -43,7 +43,7 @@
 
 &nbsp;
 
-[参考：WEB前端和后端开发面临的挑战](https://blog.csdn.net/qq_42633222/article/details/81364629)
+[链接：WEB前端和后端开发面临的挑战](https://blog.csdn.net/qq_42633222/article/details/81364629)
 
 &nbsp;
 
