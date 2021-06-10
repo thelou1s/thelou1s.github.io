@@ -2,6 +2,20 @@
 
 &nbsp;
 
+## LISP语言
+
+把程序和数据都统一的当成符号，用现代编程语言的话说，就是 LISP 支持 meta-programming。LISP 程序可以处理，生成和修改 LISP 程序。
+
+&nbsp;
+
+[编程珠玑番外篇-I. 高级语言是怎么来的-5](https://blog.youxu.info/2010/02/10/lisp-and-ai-2/)
+
+&nbsp;
+
+[Python 与 meta programming](https://www.cnblogs.com/yuyutianxia/p/4321975.html)
+
+&nbsp;
+
 
 ## 洛克希德马丁公司
 
