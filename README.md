@@ -4,20 +4,22 @@
 
 ## 因果
 
-菩萨畏因，众生畏果。
-
+缘起性空
 &nbsp;
 
-[什么是“菩萨畏因，众生畏果”](https://zhuanlan.zhihu.com/p/370333523)
-
+菩萨畏因，众生畏果。
 &nbsp;
 
 凡所有相，皆是虚妄。
+&nbsp;
 
+[缘起性空](https://baike.sogou.com/m/fullLemma?lid=459174&fromTitle=%E7%BC%98%E8%B5%B7%E6%80%A7%E7%A9%BA&rcer=uNz_alvVqvzeAE_5)
+&nbsp;
+
+[什么是“菩萨畏因，众生畏果”](https://zhuanlan.zhihu.com/p/370333523)
 &nbsp;
 
 [《金刚经》：凡所有相，皆是虚妄到底是什么意思？](https://baijiahao.baidu.com/s?id=1627347185387040139&wfr=spider&for=pc&searchword=%E2%80%9C%E5%87%A1%E6%89%80%E6%9C%89%E7%9B%B8,%E7%9A%86%E6%98%AF%E8%99%9A%E5%A6%84%E3%80%82%E2%80%9D) 
-
 &nbsp;
 
 ## LISP语言
