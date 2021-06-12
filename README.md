@@ -2,6 +2,24 @@
 
 &nbsp;
 
+## 因果
+
+菩萨畏因，众生畏果。
+
+&nbsp;
+
+[什么是“菩萨畏因，众生畏果”](https://zhuanlan.zhihu.com/p/370333523)
+
+&nbsp;
+
+凡所有相，皆是虚妄。
+
+&nbsp;
+
+[《金刚经》：凡所有相，皆是虚妄到底是什么意思？](https://baijiahao.baidu.com/s?id=1627347185387040139&wfr=spider&for=pc&searchword=%E2%80%9C%E5%87%A1%E6%89%80%E6%9C%89%E7%9B%B8,%E7%9A%86%E6%98%AF%E8%99%9A%E5%A6%84%E3%80%82%E2%80%9D) 
+
+&nbsp;
+
 ## LISP语言
 
 把程序和数据都统一的当成符号，用现代编程语言的话说，就是 LISP 支持 meta-programming。LISP 程序可以处理，生成和修改 LISP 程序。
