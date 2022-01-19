@@ -1034,7 +1034,7 @@
 
 &nbsp;
 
-[豆瓣前端工程师张克军：前端开发的五大挑战, 第一大挑战：兼容性。](https://blog.csdn.net/qq_42633222/article/details/81364629)
+[豆瓣前端工程师张克军：前端开发的第一大挑战：兼容性。](https://blog.csdn.net/qq_42633222/article/details/81364629)
 
 &nbsp;
 
