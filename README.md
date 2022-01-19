@@ -930,17 +930,18 @@
 
 &nbsp;
 
+
+&nbsp;
+
 ## 国防论 蒋百里
 
 我于世界民族兴衰，发现一条根本原则，就是“生活与战斗条件一致者强，相离者弱，相反则亡”。生活上之和平与战斗本是一件东西从两方面看
-
-&nbsp;
 
 所以我说中国近来衰弱的原因，在于知识与行为的分离。
 
 &nbsp;
 
-
+&nbsp;
 
 ## 因果
 
@@ -960,6 +961,9 @@
 &nbsp;
 
 [《金刚经》：凡所有相，皆是虚妄到底是什么意思？](https://baijiahao.baidu.com/s?id=1627347185387040139&wfr=spider&for=pc&searchword=%E2%80%9C%E5%87%A1%E6%89%80%E6%9C%89%E7%9B%B8,%E7%9A%86%E6%98%AF%E8%99%9A%E5%A6%84%E3%80%82%E2%80%9D) 
+
+&nbsp;
+
 &nbsp;
 
 ## LISP语言
@@ -1013,12 +1017,13 @@
 
 [哲学的所有问题其实就是语言问题](https://mp.weixin.qq.com/s/PGj-pJPveEvFW6_n7URFOw)
 
-&nbsp;
 
 [链接：你相信世界上有600多种编程语言么？](https://baijiahao.baidu.com/s?id=1633127608275438538&wfr=spider&for=pc)
 
 &nbsp;
 
+
+&nbsp;
 
 ## 前后端的第一大挑战
 
