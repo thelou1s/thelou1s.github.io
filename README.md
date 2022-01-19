@@ -965,6 +965,7 @@
 
 &nbsp;
 
+
 &nbsp;
 
 ## LISP语言
@@ -974,8 +975,6 @@
 &nbsp;
 
 [编程珠玑番外篇-I. 高级语言是怎么来的-5](https://blog.youxu.info/2010/02/10/lisp-and-ai-2/)
-
-&nbsp;
 
 [Python 与 meta programming](https://www.cnblogs.com/yuyutianxia/p/4321975.html)
 
@@ -1017,7 +1016,6 @@
 &nbsp;
 
 [哲学的所有问题其实就是语言问题](https://mp.weixin.qq.com/s/PGj-pJPveEvFW6_n7URFOw)
-
 
 [链接：你相信世界上有600多种编程语言么？](https://baijiahao.baidu.com/s?id=1633127608275438538&wfr=spider&for=pc)
 
