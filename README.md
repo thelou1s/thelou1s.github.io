@@ -1011,6 +1011,10 @@
 
 &nbsp;
 
+[哲学的所有问题其实就是语言问题](https://mp.weixin.qq.com/s/PGj-pJPveEvFW6_n7URFOw)
+
+&nbsp;
+
 [链接：你相信世界上有600多种编程语言么？](https://baijiahao.baidu.com/s?id=1633127608275438538&wfr=spider&for=pc)
 
 &nbsp;
