@@ -961,13 +961,11 @@
 
 &nbsp;
 
-[硒元素被一些机构宣扬成“防癌之王”](https://mp.weixin.qq.com/s?src=11&timestamp=1619013455&ver=3022&signature=5XQFq-UDfMekVaSPN9DUmUQINEWaHK9XdF6tDQiIzeqCgX7SoT4Rl5pgM-XSHK0j42iceePGl9s0dV5tL8*fsRxahFXSPLuVrnn*uTj3fN9kVYugEg1jcULi58-ckD4c&new=1)
-
 [再破纪录！袁隆平团队第三代杂交水稻双季稻亩产超3000斤](http://www.ce.cn/xwzx/gnsz/gdxw/202011/02/t20201102_35964885.shtml)
 
+[硒元素被一些机构宣扬成“防癌之王”](https://mp.weixin.qq.com/s?src=11&timestamp=1619013455&ver=3022&signature=5XQFq-UDfMekVaSPN9DUmUQINEWaHK9XdF6tDQiIzeqCgX7SoT4Rl5pgM-XSHK0j42iceePGl9s0dV5tL8*fsRxahFXSPLuVrnn*uTj3fN9kVYugEg1jcULi58-ckD4c&new=1)
+
 &nbsp;
-
-
 &nbsp;
 
 ## 国防论 蒋百里
@@ -977,14 +975,9 @@
 所以我说中国近来衰弱的原因，在于知识与行为的分离。
 
 &nbsp;
-
-
 &nbsp;
 
 ## 因果
-
-缘起性空
-&nbsp;
 
 菩萨畏因，众生畏果。
 &nbsp;
@@ -992,22 +985,22 @@
 凡所有相，皆是虚妄。
 &nbsp;
 
-[缘起性空](https://baike.sogou.com/m/fullLemma?lid=459174&fromTitle=%E7%BC%98%E8%B5%B7%E6%80%A7%E7%A9%BA&rcer=uNz_alvVqvzeAE_5)
+缘起性空
 &nbsp;
 
 [什么是“菩萨畏因，众生畏果”](https://zhuanlan.zhihu.com/p/370333523)
-&nbsp;
 
 [《金刚经》：凡所有相，皆是虚妄到底是什么意思？](https://baijiahao.baidu.com/s?id=1627347185387040139&wfr=spider&for=pc&searchword=%E2%80%9C%E5%87%A1%E6%89%80%E6%9C%89%E7%9B%B8,%E7%9A%86%E6%98%AF%E8%99%9A%E5%A6%84%E3%80%82%E2%80%9D) 
 
+[缘起性空](https://baike.sogou.com/m/fullLemma?lid=459174&fromTitle=%E7%BC%98%E8%B5%B7%E6%80%A7%E7%A9%BA&rcer=uNz_alvVqvzeAE_5)
+
+
 &nbsp;
-
-
 &nbsp;
 
 ## LISP语言
 
-把程序和数据都统一的当成符号，用现代编程语言的话说，就是 LISP 支持 meta-programming。LISP 程序可以处理，生成和修改 LISP 程序。
+把程序和数据都统一的当成符号，用现代编程语言的话说，就是 LISP 支持元编程 meta-programming。LISP 程序可以处理，生成和修改 LISP 程序。
 
 &nbsp;
 
