@@ -1099,9 +1099,11 @@
 &nbsp;
 &nbsp;
 
-"猎豹上市后的几年里，他写了许多公众号文章，分享创业心得和心灵鸡汤；搞了个“傅盛战队”，试图做创业孵化器；甚至在看到雾霾后，迅速做了一款空气净化器。这些事并未给猎豹带来有意义的收入，折腾半天仍然靠广告赚钱。"
 
-[傅盛无枝可依](https://finance.sina.com.cn/tech/csj/2022-03-10/doc-imcwiwss5268091.shtml)
+["猎豹上市后的几年里，他写了许多公众号文章，分享创业心得和心灵鸡汤；搞了个“傅盛战队”，试图做创业孵化器；甚至在看到雾霾后，迅速做了一款空气净化器。这些事并未给猎豹带来有意义的收入，折腾半天仍然靠广告赚钱。"](https://finance.sina.com.cn/tech/csj/2022-03-10/doc-imcwiwss5268091.shtml)
+
+
+["傅盛当时强烈反对在某一个位置贴广告，但团队一定要试，因为一天有十亿次的流量，结果试完效果很好，收入很快到了一天30万美元。“我就在想，我是不是不如他们懂移动广告？”](https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247485110&idx=1&sn=06aa5e77fba54c22e7610319769339bd&chksm=fcc9b90fcbbe3019b705bee8361dba474e945dc1dc2468a45ae74f400e0fb11a5cea12692760&mpshare=1&scene=1&srcid=&sharer_sharetime=1584577527868&sharer_shareid=e002542514ad37adbcfee54f0d83699c#rd)
 
 &nbsp;
 &nbsp;
