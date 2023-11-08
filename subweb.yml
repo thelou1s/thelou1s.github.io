@@ -5,7 +5,7 @@ services:
     subweb:   #服务名，可以自定义
         container_name: subweb    #容器名，可以自定义
         ports:
-            - '58080:80'   # 冒号:左边的58080可以改成任意vps上未使用过的端口,冒号右边是本docker镜像里的端口
+            - '50084:80'   # 冒号:左边的58080可以改成任意vps上未使用过的端口,冒号右边是本docker镜像里的端口
         environment:
             - PUID=0    # 用户ID,在终端输入id可以查看当前用户的id
             - PGID=0    # 组ID同上
