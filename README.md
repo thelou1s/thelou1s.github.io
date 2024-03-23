@@ -1624,47 +1624,51 @@ Google all in AI研发路线可能会被超越，也只可能是另一家人工�
 
 自己获得了永生
 
+&nbsp;
+&nbsp;
+
 ## 时间与死亡
 
 时间是凶手
 
-Time, the murderer
-
 它创造你
 
-who creates you at first
-
 是为了毁灭你
-
-who destories you at last
 
 
 时间是骗徒
 
-Time, the cheater
-
 它给你欢乐
 
-who enjoys you in the past
-
 是为了对比出痛苦
-
-Who suffers you in the future
 
 
 生命在消磨时光
 
-We life is killing time
-
 并以此为乐
-
-as joy, as reason
 
 时光将消磨一切
 
-the time will kill we all
-
 它乐此不疲
+
+
+Time, the murderer
+
+who creates you at first
+
+who destories you at last
+
+Time, the cheater
+
+who enjoys you in the past
+
+Who suffers you in the future
+
+We life is killing time
+
+as joy, as reason
+
+the time will kill we all
 
 as entertainment, as result
 
