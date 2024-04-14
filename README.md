@@ -1859,11 +1859,11 @@ Who suffers you in the future
 
 &nbsp;
 
-We life is killing time
+We life, is killing time
 
 as joy, as reason
 
-the time will kill we all
+the time, will kill we all
 
 as entertainment, as result
 
