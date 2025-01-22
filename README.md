@@ -1900,7 +1900,7 @@ Who suffers you in the future
 
 &nbsp;
 
-We life, is killing time
+We life, are killing time
 
 as joy, as reason
 
