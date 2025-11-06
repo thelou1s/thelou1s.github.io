@@ -1071,7 +1071,7 @@
 
 [小臣越职，非所宜言](https://baijiahao.baidu.com/s?id=1683206611492948268&wfr=spider&for=pc&searchword=%E5%B0%8F%E8%87%A3%E8%B6%8A%E8%81%8C,%E9%9D%9E%E6%89%80%E5%AE%9C%E8%A8%80)
 
-任正非，张一鸣，傅盛，茄子快传
+[任正非](https://www.ruanyifeng.com/blog/2019/08/ren-zhengfei.html)，张一鸣，傅盛，[仇俊](https://www.sohu.com/a/474925199_120011393)
 
 &nbsp;
 
@@ -1120,11 +1120,14 @@
 凡所有相，皆是虚妄。
 &nbsp;
 
+&nbsp;
+
+[缘起性空](https://www.bilibili.com/video/BV1Nm4y1u7JR/?spm_id_from=333.337.search-card.all.click&vd_source=2382eca4906db1c73e6dd626a2bb114f)
+
 [什么是“菩萨畏因，众生畏果”](https://zhuanlan.zhihu.com/p/370333523)
 
 [《金刚经》：凡所有相，皆是虚妄到底是什么意思？](https://baijiahao.baidu.com/s?id=1627347185387040139&wfr=spider&for=pc&searchword=%E2%80%9C%E5%87%A1%E6%89%80%E6%9C%89%E7%9B%B8,%E7%9A%86%E6%98%AF%E8%99%9A%E5%A6%84%E3%80%82%E2%80%9D) 
 
-[缘起性空](https://www.bilibili.com/video/BV1Nm4y1u7JR/?spm_id_from=333.337.search-card.all.click&vd_source=2382eca4906db1c73e6dd626a2bb114f)
 
 
 &nbsp;
