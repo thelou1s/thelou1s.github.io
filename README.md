@@ -1980,6 +1980,8 @@ as entertainment, as result
 
 未来只决定于现在，而独立于过去。
 
+[人工智能数学基础 - 马尔可夫链](https://developer.volcengine.com/articles/7382258103510630450)
+
 &nbsp;
 &nbsp;
 
